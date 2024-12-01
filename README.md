@@ -14,10 +14,15 @@
 **1.** Create a 3 year _[customer performance report](https://github.com/Yaw88/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 ### Features
 **1.** Finance View: Analyze Profit & Loss (P&L) statements across customers, products, and regions.Aggregate performance over specific time periods.
+
 **2.** Sales View: Track customer performance through metrics like Net Sales (NS), Gross Margin (GM), and profitability.Compare Year-To-Date (YTD) and Year-To-Target (YTG) performance.
+
 **3.** Marketing View: Evaluate product performance on key KPIs such as sales growth and margins.Bookmark Feature: Toggle between Gross Margin % and Net Margin % in the Performance Matrix for dynamic profitability analysis.
+
 **4.** Supply Chain InsightsMonitor Forecast Accuracy, Net Error, and risk profiles for inventory by product or segment.Optimize inventory management with actionable supply chain KPIs.
+
 **5.** Executive SummaryConsolidates data from all dimensions of the business to provide a high-level view for executives.
+
 **6.** SupportTools to connect with support specialists for troubleshooting and guidance.
 
 
@@ -39,6 +44,9 @@ North America: Highest gross margin percentage (44.97%) with opportunities to im
 
 ### Business Value
 **1.** Enhanced Decision-Making: Real-time insights for strategic adjustments.
+
 **2.** Profitability Analysis: Identification of high-margin customers, products, and regions.
+
 **3.** Operational Efficiency: Streamlined supply chain and cost management.
+
 **4.** Customer-Centric Growth: Tailored strategies for top-performing customers.
