@@ -9,9 +9,8 @@
 
 ## Overview
 
- The "Business Insights 360" Power BI dashboard, developed for AtliQ Manufacturing, provides a comprehensive view of business performance. It delivers actionable insights across finance, sales, marketing, supply chain, and executive operations to enable data-driven decision-making.
+ The "Business Insights 360" Power BI dashboard, developed for AtliQ Manufacturing, provides a comprehensive view of business performance. It delivers actionable insights across finance, sales, marketing, supply chain, and executive operations to enable data-driven decision-making. This is th project link _[business insights 360](https://app.powerbi.com/view?r=eyJrIjoiMDdjYTNjZDctY2FkZi00NWE3LWE5MDItOGRjNTZjMTY3NDU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-**1.** Create a 3 year _[customer performance report](https://github.com/Yaw88/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 ### Features
 **1.** Finance View: Analyze Profit & Loss (P&L) statements across customers, products, and regions.Aggregate performance over specific time periods.
 
